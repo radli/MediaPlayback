@@ -37,7 +37,7 @@ var MediaData = (function () {
 
     /** Mapping of HLS Urls with Ids */
     [HLS1]:
-      "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls-apple/master.m3u8",
+      "https://bl.video.matchtv.ru/media/start/free_2bb9578961d9d035fbdc9b512aaf578b/17_3526027161/4ccc7866d747dc1b24b2a6db74241d41/4853309549.m3u8?sr=98",
     [HLS2]:
       "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
     [HLSErr1]: "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
